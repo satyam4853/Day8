@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\bin\Debug\netcoreapp3.1\EmployeWages.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day8\EmployeWages\EmployeWages\obj\Debug\netcoreapp3.1\EmployeWages.genruntimeconfig.cache
